@@ -1,1 +1,3 @@
-# zoom_clone
+# Noom
+
+Zoom Clone using NodeJS, WebRTC and Websockets.
